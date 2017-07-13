@@ -6,3 +6,5 @@ Git tracks changes of files.
 My stupid Boss still prefers SVN.
 hahahhaha.
 Creating a new branch is quick and simple.
+butrecover
+Git is a free software.
